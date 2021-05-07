@@ -123,7 +123,7 @@ public abstract class AbstractWineSampleCellar {
     
     /**
      * returns the list of wine samples relevant to the specified Wine Type.
-     * Returns a List<WineSample>.
+     * Returns a List< WineSample >.
      *
      * @param wineType the wine type to retrieve
      * @return a list of RED, WHITE, or ALL WineSamples

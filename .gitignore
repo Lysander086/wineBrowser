@@ -5,6 +5,7 @@
 
 doc_resourcez
 *.zip
+**.class
 
 HELP.md
 target/
